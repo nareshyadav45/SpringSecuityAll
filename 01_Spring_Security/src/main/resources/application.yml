@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: 01_Spring_Security
+
+
+  security:
+    user:
+      name: nareshyadav
+      password: naresh@45
+    
+    

@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: 03_Spring_Security-Jdbc_Auth
+
+  datasource:
+    url: jdbc:mysql://localhost:3306/spring_secuirty_jdbc_authentication
+    username: root
+    password: root
+    driver-class-name: com.mysql.cj.jdbc.Driver  
+  jpa:
+    show-sql: true
+    
+    
+    
+    
+     
+  
